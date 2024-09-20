@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NotVivek12/](https://github.com/NotVivek12/)
 
-- 💬 Ask me about **C, Java, C++**
+- 💬 Ask me about **C, Java, C++ **
 
 - 📫 How to reach me **www.linkedin.com/in/vivek-upadhayay/**
 
