@@ -55,21 +55,21 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NotVivek12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NotVivek12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotVivek12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🚀 Fun Extras
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=NotVivek12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
