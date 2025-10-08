@@ -54,6 +54,13 @@
 
 ---
 
+### 💡 LeetCode Stats:
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/NotVivek12?theme=dark&font=Baloo%20Chettan%202&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NotVivek12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
