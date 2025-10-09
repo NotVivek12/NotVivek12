@@ -13,7 +13,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 👨‍💻 All of my projects are available on my [GitHub Profile](https://github.com/NotVivek12)
 - 💬 Ask me about **C, C++, Java**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/vivek-upadhayay/)**
