@@ -76,6 +76,11 @@
 
 ---
 
+## 🏆 Summary Cards
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotVivek12&theme=tokyonight)
+
+---
+
 ### 🚀 Fun Extras
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=NotVivek12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
